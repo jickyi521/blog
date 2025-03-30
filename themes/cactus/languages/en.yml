@@ -1,0 +1,69 @@
+nav:
+  home: 首页
+  about: 关于
+  articles: 归档
+  projects: 项目
+  tag: 标签
+  category: 分类
+  search: 搜索
+
+icons:
+  menu: Menu
+  top: Top
+
+footer:
+  copyright: Copyright
+
+index:
+  find_me_on: 宇宙无时无刻的向你发来信号📶，与你对话。你需要做的是安静下来，倾听这个声音。
+  enum_comma: ','
+  enum_and: and
+  articles: Writing
+  projects: Projects
+  topics: Topics
+  most_recent: Most recent
+
+post:
+  desktop:
+    previous: Previous post
+    next: Next post
+    back_to_top: Back to top
+    share: Share post
+  mobile:
+    menu: Menu
+    toc: TOC
+    back_to_top: Top
+    share: Share
+
+search:
+  search: Search...
+  no_results: No results found.
+
+tag_cloud:
+  zero: No tags
+
+pagination:
+  page: Page %d of %d
+
+counter:
+  tag_cloud:
+    zero: No tags
+    one: ""
+    other: ""
+
+  categories:
+    zero: No categories
+    one: ""
+    other: ""
+
+  archive_posts:
+    zero: No posts.
+    one: ""
+    other: ""
+
+comments:
+  no_js: Please enable JavaScript to view the comments.
+
+tooltip:
+  copy_tip: Copy to clipboard!
+  copied: Copied!
